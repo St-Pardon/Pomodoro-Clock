@@ -126,6 +126,7 @@ export default function App() {
       </footer>
       <audio
           id="beep"
+          preload="auto"
           ref={beep}
           src="https://www.soundjay.com/misc/sounds/bell-ringing-05.mp3"
         />
