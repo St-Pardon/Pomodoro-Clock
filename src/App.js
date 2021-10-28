@@ -127,7 +127,7 @@ export default function App() {
       <audio
           id="beep"
           ref={beep}
-          src="https://raw.githubusercontent.com/freeCodeCamp/cdn/master/build/testable-projects-fcc/audio/BeepSound.wav"
+          src="https://www.soundjay.com/misc/sounds/bell-ringing-05.mp3"
         />
     </div>
   );

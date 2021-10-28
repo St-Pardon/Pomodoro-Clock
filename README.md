@@ -1,3 +1,5 @@
-# react-rmqx8d
+# 25 + 5 Clock 
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-rmqx8d)
+## This is a Pomodoro Clock otherwise known as 25 + 5 Clock
+## A FreeCodeCamp Project for the certification of Frontend Devlopment
+### This was done using React
